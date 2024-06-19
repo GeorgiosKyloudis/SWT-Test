@@ -37,10 +37,10 @@ Wenden Sie alle in den Unterlagen genannten relevanten Methoden beweisbar an: (d
 ## 4. Experimentieren Sie mit Zeitreisen!
 
 Zeitreisen kann man durch bestimmte Commit-Hashes (`git log`) ermöglichen, um auf diesen Stand der Arbeit zurückzukehren. Mit `git checkout <commit-hash>` erlangt man den gewählten Commit.
-
+![alt text](Screenshots/Bild11.png)
 Beide Schritte können auch schneller durch `git reset --hard <commit-hash>` erleichtert werden.
 
-![alt text](Screenshots/Bild11.png)
+
 ![alt text](Screenshots/Bild12.png)
 
 ## 5. Branching und Merging
